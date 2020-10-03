@@ -20,14 +20,15 @@
 
 
 "Original Windows Version
+set belloff=all
 set noswapfile
 set nobackup
 "set clipboard=unnamedplus
 set nu
 set encoding=utf-8
 set ma     
-set visualbell
-set noerrorbells
+"set visualbell
+"set noerrorbells
 set showmode
 set autoindent 
 set ruler
