@@ -1,0 +1,17 @@
+{
+  "platformName": "android",
+  "appActivity": "com.soft.blued.ui.welcome.FirstActivity",
+  "appPackage": "com.soft.blued",
+  "deviceName": "127.0.0.1:21503",
+  "noReset": true,
+  "noSign": true,
+  "platformVersion": "7.1.2",
+  "resetKeyboard": true,
+  "unicodeKeyboard": true,
+  "deviceUDID": "127.0.0.1:21503",
+  "deviceApiLevel": 25,
+  "deviceScreenSize": "1080x1920",
+  "deviceScreenDensity": 360,
+  "deviceModel": "PCRT00",
+  "deviceManufacturer": "OPPO"
+}

@@ -1,0 +1,13 @@
+Host *
+     ForwardAgent no
+     ForwardX11 yes
+     ForwardX11Trusted yes
+     Port 22
+     Protocol 2
+     ServerAliveInterval 60
+     ServerAliveCountMax 30
+Host aws
+     HostName ec2-18-162-130-84.ap-east-1.compute.amazonaws.com
+     User ec2-user
+     Port 22
+     IdentityFile ~/.ssh/id_rsa
